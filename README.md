@@ -1,15 +1,16 @@
 # HRMS (Human Resource Management System)
 
-![home-page](https://user-images.githubusercontent.com/61651202/122411861-c822e300-cf8d-11eb-9a7a-b8609e3b4814.png)
+<!-- ![home-page](https://user-images.githubusercontent.com/61651202/122411861-c822e300-cf8d-11eb-9a7a-b8609e3b4814.png)
 ![2-5](https://user-images.githubusercontent.com/61651202/122412153-01f3e980-cf8e-11eb-95f5-5b4b3505b57e.png)
 ![2-7](https://user-images.githubusercontent.com/61651202/122412175-05877080-cf8e-11eb-9307-a2ede411cd6a.png)
 ![2-1](https://user-images.githubusercontent.com/61651202/122412189-091af780-cf8e-11eb-9de5-b8242ce21764.png)
 ![2-4](https://user-images.githubusercontent.com/61651202/122412195-0a4c2480-cf8e-11eb-93e3-9cf98069cd83.png)
 ![2-3](https://user-images.githubusercontent.com/61651202/122412211-0cae7e80-cf8e-11eb-8761-77ae4400e6f6.png)
 ![2-2](https://user-images.githubusercontent.com/61651202/122412234-11733280-cf8e-11eb-80f8-21fe21005137.png)
-![2-6](https://user-images.githubusercontent.com/61651202/122412244-133cf600-cf8e-11eb-9517-21fb26c72a9e.png)
+![2-6](https://user-images.githubusercontent.com/61651202/122412244-133cf600-cf8e-11eb-9517-21fb26c72a9e.png) -->
 
 # UML Component Diagram
+
 ![UML COMPONENT](https://user-images.githubusercontent.com/61651202/122412054-eee11980-cf8d-11eb-80a5-2416caf77e7f.png)
 
 # Getting Started with Create React App
